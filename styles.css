@@ -1,1 +1,9 @@
+
 /* your code */
+th {
+	 background-color: #215A8E;
+	color: white;
+}
+tr:nth-child(even) {
+  background-color: #DDDDDD;
+}
